@@ -16,11 +16,15 @@ alongside the implementation of
 
 - the Project Layer Description Model (https://zellij.pythonanywhere.com/docs/list/app8rHfEiYQLOVrtc?flag=0)
 
+The Parthenos Entities Model is a formal ontology that was developed for the Parthenos Project, a Horizon 2020 funded project that aimed to develop methods and techniques for the establishment and maintenance of research infrastructures.
+
+The Project Lay Description Model is a co-development of Takin.solutions and the Max Planck Institute for the History of Science (https://www.mpiwg-berlin.mpg.de/). It operationalizes the formal ontology of the Parthenos Entities model into semantic reference data models which are devised to create a data management strategy for data integration process management. These models are platform agnostic and can be implemented in any semantic data management platform. 
+
 This repository is maintained by:
 
 - Takin.solutions (https://takin.solutions)
 
-As mentioned above the SemCMD package is developed for implementation in the Arches software.Arches is a semantic data management platform that allows the building of data models that are created using formal ontologies. This means data managed in these models is 'born semantic', ready for broader data integration with projects implementing the same or aligned formal ontology models.
+As mentioned above the SemCMD package is developed for implementation in the Arches software. Arches is a semantic data management platform that allows the building of data models that are created using formal ontologies. This means data managed in these models is 'born semantic', ready for broader data integration with projects implementing the same or aligned formal ontology models.
 
 Arches is developed by Farallon Geographics (https://www.fargeo.com/) and is supported by the Getty Conservation Institute (https://www.getty.edu/conservation/) and World Monuments Fund (https://www.wmf.org/).
 
