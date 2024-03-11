@@ -20,4 +20,14 @@ This repository is maintained by:
 
 - Takin.solutions (https://takin.solutions)
 
-More soon...
+As mentioned above the SemCMD package is developed for implementation in the Arches software.Arches is a semantic data management platform that allows the building of data models that are created using formal ontologies. This means data managed in these models is 'born semantic', ready for broader data integration with projects implementing the same or aligned formal ontology models.
+
+Arches is developed by Farallon Geographics (https://www.fargeo.com/) and is supported by the Getty Conservation Institute (https://www.getty.edu/conservation/) and World Monuments Fund (https://www.wmf.org/).
+
+At present the SemCMD Arches package is developed for version 6.1 of the Arches Semantic Data Platform tool (https://github.com/archesproject/arches/tree/stable/6.1.1). As further versions of the package are developed they will be added to this repository under a standardized version release process.
+
+To learn more about Arches go here: https://www.archesproject.org/ 
+
+To understand how to load this and other Arches packages, read the official documentation here: https://arches.readthedocs.io/en/stable/installing/projects-and-packages/
+
+Institutions and groups interested in implementing SemCMD are welcome to download and install the software. For questions on its use please contact Takin.solutions at the address given above. To register issues with the package please use the issues managment service of this github repository.
